@@ -1,0 +1,11 @@
+http://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+
+Improvements in programs -
+
+1)  Read direct integers and display error if something wrong is entered. ( http://www.gtkforums.com/viewtopic.php?t=4993 )
+
+2)  Try animation using time delay. (use sensitive followed by hidden followed by shift)
+
+3)  Give arrows between the boxes.
+
+4)  Make a separate box/column and write a note about it
